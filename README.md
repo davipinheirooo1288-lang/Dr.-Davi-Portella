@@ -33,7 +33,7 @@ Use imagens na proporcao `1672 x 941` para manter os hotspots alinhados.
 
 - WhatsApp: altere a constante `phone` em `script.js`.
 - Mensagens por botao: edite o objeto `messages` em `script.js`.
-- E-mail e Instagram: procure por `mailto:` e `instagram.com` em `index.html`.
+- E-mail e Instagram: procure por `mailto:`, `proton.me` e `instagram.com` em `index.html`.
 - SEO: atualize `title`, `description`, Open Graph e JSON-LD no topo do `index.html`.
 
 ## Validacao rapida
