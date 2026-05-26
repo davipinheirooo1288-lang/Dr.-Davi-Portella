@@ -1,0 +1,8 @@
+# Arquivos temporarios locais
+.DS_Store
+Thumbs.db
+*.log
+proof-*.png
+
+# Configuracao local criada pela Vercel CLI
+.vercel
