@@ -2,6 +2,8 @@
 
 Landing page estatica premium para advocacia criminal e previdenciaria.
 
+URL de producao: https://dr-davi-portella.vercel.app/
+
 ## Estrutura
 
 - `index.html`: conteudo, SEO, links e areas clicaveis por cima dos templates.
